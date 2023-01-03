@@ -1,19 +1,16 @@
 {
     "name": "extiverse/flarum-premium-extensions",
     "description": "All Flarum premium extensions.",
-    "keywords": [
-        "premium",
-        "paid",
-        "flarum",
-        "flarum-bundle",
-        "extiverse"
-    ],
     "license": "MIT",
     "require": {
         "flarum/core": "^v1.6.2",
+        "blomstra/meta": "*",
         "blomstra/payments": "*",
         "blomstra/readme": "*",
         "blomstra/realtime": "*",
+        "blomstra/s3-assets": "*",
+        "convo-extensions/flarum-ext-guest-posting": "*",
+        "convo-extensions/flarum-ext-quick-reply": "*",
         "datitisev/flarum-backup": "*",
         "datitisev/flarum-maintenance": "*",
         "datitisev/flarum-webhooks-pro": "*",
@@ -28,8 +25,11 @@
         "glowingblue/sweep": "*",
         "glowingblue/typeform": "*",
         "glowingblue/welcome-page": "*",
+        "ianm/translate": "*",
         "justoverclock/auto-post-badge-pro": "*",
+        "justoverclock/check-duplicate-discussions": "*",
         "justoverclock/discord-widget": "*",
+        "justoverclock/discussion-tags": "*",
         "justoverclock/frontend-blog": "*",
         "justoverclock/igdb-api": "*",
         "justoverclock/imdb-api": "*",
@@ -38,6 +38,7 @@
         "justoverclock/theaudiodb-api": "*",
         "justoverclock/website-live-screenshot": "*",
         "kilowhat/flarum-ext-audit-pro": "*",
+        "kilowhat/flarum-ext-cimaise": "*",
         "kilowhat/flarum-ext-custom-paths": "*",
         "kilowhat/flarum-ext-formulaire": "*",
         "kilowhat/flarum-ext-rich-embeds": "*",
@@ -45,8 +46,8 @@
         "kyrne/aegis": "*",
         "kyrne/websocket": "*",
         "maicol07/flarum-oidc-client": "*",
-        "reflar/recache": "*",
         "sycho/flarum-private-facade": "*",
-        "v17development/flarum-support": "*"
+        "v17development/flarum-support": "*",
+        "ziiven/flarum-pay-to-see": "*"
     }
 }
