@@ -40,6 +40,7 @@
         "kyrne/websocket": "*",
         "maicol07/flarum-oidc-client": "*",
         "sycho/flarum-private-facade": "*",
-        "v17development/flarum-support": "*"
+        "v17development/flarum-support": "*",
+        "ziiven/flarum-decoration-store": "*"
     }
 }
