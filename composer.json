@@ -3,7 +3,7 @@
     "description": "All Flarum premium extensions.",
     "license": "MIT",
     "require": {
-        "flarum/core": "^v1.8.1",
+        "flarum/core": "^v1.8.2",
         "blomstra/meta": "*",
         "blomstra/payments": "*",
         "blomstra/readme": "*",
