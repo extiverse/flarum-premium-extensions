@@ -9,8 +9,6 @@
         "blomstra/readme": "*",
         "blomstra/realtime": "*",
         "blomstra/s3-assets": "*",
-        "convo-extensions/flarum-ext-guest-posting": "*",
-        "convo-extensions/flarum-ext-quick-reply": "*",
         "datitisev/flarum-backup": "*",
         "datitisev/flarum-maintenance": "*",
         "datitisev/flarum-webhooks-pro": "*",
