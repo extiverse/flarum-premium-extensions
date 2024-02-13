@@ -39,6 +39,7 @@
         "kyrne/aegis": "*",
         "kyrne/websocket": "*",
         "maicol07/flarum-oidc-client": "*",
+        "ordinaryjellyfish/automod": "*",
         "v17development/flarum-support": "*",
         "ziiven/flarum-decoration-store": "*",
         "ziiven/flarum-pay-to-see": "*"
